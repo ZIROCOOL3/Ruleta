@@ -11,6 +11,7 @@ const array_concursantes=
     ,'Pierre Zurita Ramirez'
     ,'Pierre Zurita Ramirez'
     ,'javier'
+    ,'juan'
 
 ];
 
