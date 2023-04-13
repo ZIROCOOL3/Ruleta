@@ -10,6 +10,7 @@ const array_concursantes=
     ,'Gerardo Garcia Hernandez'
     ,'Pierre Zurita Ramirez'
     ,'Pierre Zurita Ramirez'
+    ,'javier'
 
 ];
 
