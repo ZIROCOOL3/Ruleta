@@ -2,16 +2,8 @@
 const array_concursantes=
 [
     //'kamila Villablanca'-GANADORA
-    'Daniela Salvador Caballero'
-    ,'LeoGarcia01'
-    ,'Gaspak'
-    ,'Oxmar Yamith'
-    ,'Mauro Toranzo'
-    ,'Gerardo Garcia Hernandez'
-    ,'Pierre Zurita Ramirez'
-    ,'Pierre Zurita Ramirez'
-    ,'javier'
-    ,'juan'
+    'piki','gonza','dani','vivi','silvana','belen',
+'ale'
 
 ];
 
